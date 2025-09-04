@@ -19,6 +19,6 @@ main {
 footer {
     text-align: center;
     padding: 10px 0;
-    background-color: #4CAF50;
+    background-color: #388E3C; /* Updated for better visual consistency */
     color: white;
 }
